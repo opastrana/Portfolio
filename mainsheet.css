@@ -1,0 +1,30 @@
+#navbar{
+    text-align: center;
+}
+
+#navbar li{
+    display:inline-block;
+    border: 2px solid black;
+    padding: 5px;
+}
+
+#musicsite {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    float: left;
+    width: 50%;
+}
+
+#death {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    float: right;
+    width: 50%;
+}
+
+
+
